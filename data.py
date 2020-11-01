@@ -93,7 +93,7 @@ class Data(torch.utils.data.Dataset):
 
     def __getitem__(self, index):
         # Read audio and text
-        audiopath, text, speaker_id = self.audiopaths_and_text[index]
+        audiopath, text, speaker_id, emotion_id = self.audiopaths_and_text[index]
         audio, sampling_rate = load_wav_to_torch(audiopath)
         if sampling_rate != self.sampling_rate:
             raise ValueError("{} SR doesn't match target {} SR".format(
