@@ -1,0 +1,7 @@
+/content/flowtron/train/Balloony/wavs/04_01_02_Balloony_Happy__I'm so glad you guys remembered to bring me back!.wav|I'm so glad you guys remembered to bring me back!|0|0
+/content/flowtron/train/Liy/wavs/04_01_01_Liy_Neutral__Tree!.wav|Neutral|1|0
+/content/flowtron/train/Liy/wavs/04_05_01_Liy_Sad Anxious__Oh no, I'm in the bottom two_.wav|{OW1} {N OW1}! {AH0 M} {IH0 N} {DH IY0} {B AA1 T AH0 M} {T UW1}?;|1|0
+/content/flowtron/train/Liy/wavs/04_11_03_Liy_Annoyed_Noisy_Pay attention Stapy! It's locked..wav|{P EY1} {AH0 T EH1 N SH AH0 N} {S T EY1 P IY1}! {IH0 T S} {L AA1 K T}.;|1|0
+/content/flowtron/train/Basketball/wavs/04_12_03_Basketball_Sad__Oh no, now I'm orange..wav|Oh no, now I'm orange.|2|0
+/content/flowtron/train/Four/wavs/04_12_14_Four_Anxious__Oh, well, I uh.wav|Oh, well, I uh|3|0
+/content/flowtron/train/Four/wavs/04_12_15_Four_Anxious Whispering__What do I do_.wav|What do I do?|3|0
