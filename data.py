@@ -43,7 +43,7 @@ def load_wav_to_torch(full_path):
 class Data(torch.utils.data.Dataset):
     def __init__(self, filelist_path, filter_length, hop_length, win_length,
                  sampling_rate, mel_fmin, mel_fmax, max_wav_value, p_arpabet,
-                 cmudict_path, text_cleaners, speaker_ids=None, randomize=True,
+                 cmudict_path, text_cleaners, speaker_ids=None, emotion_ids=None, randomize=True,
                  seed=1234):
         self.max_wav_value = max_wav_value
         self.audiopaths_and_text = load_filepaths_and_text(filelist_path)
@@ -60,6 +60,10 @@ class Data(torch.utils.data.Dataset):
             self.speaker_ids = self.create_speaker_lookup_table(self.audiopaths_and_text)
         else:
             self.speaker_ids = speaker_ids
+        if emotion_ids is None:
+            self.emotion_ids = self.create_emotion_lookup_table(self.audiopaths_and_text)
+        else:
+            self.emotion_ids = emotion_ids
 
         random.seed(seed)
         if randomize:
@@ -69,6 +73,12 @@ class Data(torch.utils.data.Dataset):
         speaker_ids = np.sort(np.unique([x[2] for x in audiopaths_and_text]))
         d = {int(speaker_ids[i]): i for i in range(len(speaker_ids))}
         print("Number of speakers :", len(d))
+        return d
+
+    def create_emotion_lookup_table(self, audiopaths_and_text):
+        emotion_ids = np.sort(np.unique([x[3] for x in audiopaths_and_text]))
+        d = {int(emotionr_ids[i]): i for i in range(len(emotion_ids))}
+        print("Number of emotions :", len(d))
         return d
 
     def get_mel(self, audio):
