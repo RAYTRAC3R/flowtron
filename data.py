@@ -92,6 +92,9 @@ class Data(torch.utils.data.Dataset):
     def get_speaker_id(self, speaker_id):
         return torch.LongTensor([self.speaker_ids[int(speaker_id)]])
 
+    def get_emotion_id(self, emotion_id):
+        return torch.LongTensor([self.emotion_ids[int(emotion_id)]])
+
     def get_text(self, text):
         text = _clean_text(text, self.text_cleaners)
         words = re.findall(r'\S*\{.*?\}\S*|\S+', text)
@@ -112,7 +115,8 @@ class Data(torch.utils.data.Dataset):
         mel = self.get_mel(audio)
         text_encoded = self.get_text(text)
         speaker_id = self.get_speaker_id(speaker_id)
-        return (mel, speaker_id, text_encoded)
+        emotion_id = self.get_emotion_id(emotion_id)
+        return (mel, speaker_id, emotion_id, text_encoded)
 
     def __len__(self):
         return len(self.audiopaths_and_text)
@@ -127,14 +131,14 @@ class DataCollate():
         """Collate's training batch from normalized text and mel-spectrogram """
         # Right zero-pad all one-hot text sequences to max input length
         input_lengths, ids_sorted_decreasing = torch.sort(
-            torch.LongTensor([len(x[2]) for x in batch]),
+            torch.LongTensor([len(x[3]) for x in batch]),
             dim=0, descending=True)
         max_input_len = input_lengths[0]
 
         text_padded = torch.LongTensor(len(batch), max_input_len)
         text_padded.zero_()
         for i in range(len(ids_sorted_decreasing)):
-            text = batch[ids_sorted_decreasing[i]][2]
+            text = batch[ids_sorted_decreasing[i]][3]
             text_padded[i, :text.size(0)] = text
 
         # Right zero-pad mel-spec
@@ -153,12 +157,13 @@ class DataCollate():
         speaker_ids = torch.LongTensor(len(batch))
         emotion_ids = torch.LongTensor(len(batch))
         for i in range(len(ids_sorted_decreasing)):
+            print(ids_sorted_decreasing)
             mel = batch[ids_sorted_decreasing[i]][0]
             mel_padded[i, :, :mel.size(1)] = mel
             gate_padded[i, mel.size(1)-1:] = 1
             output_lengths[i] = mel.size(1)
             speaker_ids[i] = batch[ids_sorted_decreasing[i]][1]
-            emotion_ids[i] = batch[ids_sorted_decreasing[i]][1]
+            emotion_ids[i] = batch[ids_sorted_decreasing[i]][2]
 
         return mel_padded, speaker_ids, emotion_ids, text_padded, input_lengths, output_lengths, gate_padded
 
