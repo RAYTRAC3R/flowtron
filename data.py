@@ -77,7 +77,7 @@ class Data(torch.utils.data.Dataset):
 
     def create_emotion_lookup_table(self, audiopaths_and_text):
         emotion_ids = np.sort(np.unique([x[3] for x in audiopaths_and_text]))
-        d = {int(emotionr_ids[i]): i for i in range(len(emotion_ids))}
+        d = {int(emotion_ids[i]): i for i in range(len(emotion_ids))}
         print("Number of emotions :", len(d))
         return d
 
@@ -151,14 +151,16 @@ class DataCollate():
         gate_padded.zero_()
         output_lengths = torch.LongTensor(len(batch))
         speaker_ids = torch.LongTensor(len(batch))
+        emotion_ids = torch.LongTensor(len(batch))
         for i in range(len(ids_sorted_decreasing)):
             mel = batch[ids_sorted_decreasing[i]][0]
             mel_padded[i, :, :mel.size(1)] = mel
             gate_padded[i, mel.size(1)-1:] = 1
             output_lengths[i] = mel.size(1)
             speaker_ids[i] = batch[ids_sorted_decreasing[i]][1]
+            emotion_ids[i] = batch[ids_sorted_decreasing[i]][1]
 
-        return mel_padded, speaker_ids, text_padded, input_lengths, output_lengths, gate_padded
+        return mel_padded, speaker_ids, emotion_ids, text_padded, input_lengths, output_lengths, gate_padded
 
 
 # ===================================================================
@@ -188,6 +190,7 @@ if __name__ == "__main__":
     filepaths_and_text = load_filepaths_and_text(args.filelist)
     for (filepath, text, speaker_id) in filepaths_and_text:
         print("speaker id", speaker_id)
+        print("emotion id", emotion_id)
         print("text", text)
         print("text encoded", mel2samp.get_text(text))
         audio, sr = load_wav_to_torch(filepath)
