@@ -587,7 +587,7 @@ class Flowtron(torch.nn.Module):
         mel = mel.permute(2, 0, 1)
 
         encoder_outputs = torch.cat(
-            [text, speaker_vecs.expand(text.size(0), -1, -1), speaker_vecs.expand(text.size(0), -1, -1)], 2)
+            [text, speaker_vecs.expand(text.size(0), -1, -1), emotion_vecs.expand(text.size(0), -1, -1)], 2)
         log_s_list = []
         attns_list = []
         mask = ~get_mask_from_lengths(in_lens)[..., None]
