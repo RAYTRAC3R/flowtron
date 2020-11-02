@@ -10,7 +10,7 @@
         "seed": 1234,
         "checkpoint_path": "",
         "ignore_layers": [],
-        "include_layers": ["speaker", "emotion", "encoder", "embedding"],
+        "include_layers": ["speaker", "encoder", "embedding"],
         "warmstart_checkpoint_path": "",
         "with_tensorboard": true,
         "fp16_run": false
@@ -37,7 +37,7 @@
     "model_config": {
         "n_speakers": 256,
         "n_speaker_dim": 128,
-        "n_emotions": 64,
+        "n_emotions": 128,
         "n_emotion_dim": 128,
         "n_text": 185,
         "n_text_dim": 512,
