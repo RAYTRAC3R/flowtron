@@ -61,7 +61,7 @@ def prepare_dataloaders(data_config, n_gpus, batch_size):
 
     valset = Data(data_config['validation_files'],
                   **dict((k, v) for k, v in data_config.items()
-                  if k not in ignore_keys), speaker_ids=trainset.speaker_ids)
+                  if k not in ignore_keys), speaker_ids=trainset.speaker_ids, emotion_ids=trainset.emotion_ids)
 
     collate_fn = DataCollate()
 
@@ -144,8 +144,8 @@ def compute_validation_loss(model, criterion, valset, collate_fn, batch_size,
 
         val_loss = 0.0
         for i, batch in enumerate(val_loader):
-            mel, speaker_vecs, text, in_lens, out_lens, gate_target = batch
-            mel, speaker_vecs, text = mel.cuda(), speaker_vecs.cuda(), text.cuda()
+            mel, speaker_vecs, emotion_vecs, text, in_lens, out_lens, gate_target = batch
+            mel, speaker_vecs, emotion_vecs, text = mel.cuda(), speaker_vecs.cuda(), emotion_vecs.cuda(), text.cuda()
             in_lens, out_lens, gate_target = in_lens.cuda(), out_lens.cuda(), gate_target.cuda()
             z, log_s_list, gate_pred, attn, mean, log_var, prob = model(
                 mel, speaker_vecs, text, in_lens, out_lens)
@@ -217,12 +217,12 @@ def train(n_gpus, rank, output_directory, epochs, learning_rate, weight_decay,
         for batch in train_loader:
             model.zero_grad()
 
-            mel, speaker_vecs, text, in_lens, out_lens, gate_target = batch
-            mel, speaker_vecs, text = mel.cuda(), speaker_vecs.cuda(), text.cuda()
+            mel, speaker_vecs, emotion_vecs, text, in_lens, out_lens, gate_target = batch
+            mel, speaker_vecs, emotion_vecs, text = mel.cuda(), speaker_vecs.cuda(), emotion_vecs.cuda(), text.cuda()
             in_lens, out_lens, gate_target = in_lens.cuda(), out_lens.cuda(), gate_target.cuda()
 
             z, log_s_list, gate_pred, attn, mean, log_var, prob = model(
-                mel, speaker_vecs, text, in_lens, out_lens)
+                mel, speaker_vecs, emotion_vecs, text, in_lens, out_lens)
             loss = criterion((z, log_s_list, gate_pred, mean, log_var, prob),
                              gate_target, out_lens)
 
