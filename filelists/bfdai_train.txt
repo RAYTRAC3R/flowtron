@@ -7,56 +7,39 @@
 /content/flowtron/train/Balloony/wavs/04_01_08_Balloony_Neutral Annoyed__Okay, I'm tired of waiting.  Hop!.wav|Okay, I'm tired of waiting.  Hop!|0|0
 /content/flowtron/train/Balloony/wavs/04_11_01_Balloony_Whining Neutral__But I can hear the!.wav|But I can hear the!|0|0
 /content/flowtron/train/Balloony/wavs/04_12_01_Balloony_Surprised Fear__Nickel! Don't stab Woody!.wav|Nickel! Don't stab Woody!|0|0
+/content/flowtron/train/Balloony/wavs/04_01_01_Balloony_Fear Surprised_Noisy_Flower, what have you done_.wav|Flower, what have you done?|0|0
+/content/flowtron/train/Balloony/wavs/04_01_03_Balloony_Confused__I don't need help, but uh, sure.wav|I don't need help, but uh, sure.|0|0
+/content/flowtron/train/Balloony/wavs/04_01_04_Balloony_Confused__Yeah, how_.wav|Yeah, how?|0|0
+/content/flowtron/train/Balloony/wavs/04_01_05_Balloony_Anxious__Woody's right!  Everybody's working so fast!.wav|Woody's right!  Everybody's working so fast!|0|0
+/content/flowtron/train/Balloony/wavs/04_01_06_Balloony_Surprised Happy__So many meanings!.wav|So many meanings!|0|0
+/content/flowtron/train/Balloony/wavs/04_01_07_Balloony_Neutral Happy__Roboty, get this to Four!.wav|Roboty, get this to Four!|0|0
+/content/flowtron/train/Balloony/wavs/04_01_08_Balloony_Neutral Annoyed__Okay, I'm tired of waiting.  Hop!.wav|Okay, I'm tired of waiting.  Hop!|0|0
+/content/flowtron/train/Balloony/wavs/04_11_01_Balloony_Whining Neutral__But I can hear the!.wav|But I can hear the!|0|0
+/content/flowtron/train/Balloony/wavs/04_12_01_Balloony_Surprised Fear__Nickel! Don't stab Woody!.wav|Nickel! Don't stab Woody!|0|0
 /content/flowtron/train/Balloony/wavs/04_12_02_Balloony_Angry__Gimme that fork!.wav|Gimme that fork!|0|0
-/content/flowtron/train/Liy/wavs/04_01_04_Liy_Neutral__So here's our plan!.wav|{S OW1} {HH IH1 R Z} {AW1 ER0} {P L AE1 N}.;|1|0
-/content/flowtron/train/Liy/wavs/04_01_06_Liy_Sad__Aw, Tree doesn't seem too cool..wav|{AO1}, {T R IY1} {D AH1 Z AH0 N T} {S IY1 M} {T UW1} {K UW1 L}.;|1|0
-/content/flowtron/train/Liy/wavs/04_01_07_Liy_Neutral__Woah, Ice Cube, you're there, are you cool_.wav|{W OW1}, {AY1 S} {K Y UW1 B}, {Y UW1 R} {DH EH1 R}, {ER0} {Y UW1} {K UW1 L}?;|1|0
-/content/flowtron/train/Liy/wavs/04_01_08_Liy_Neutral__Ice Cube, it's not that hard of a question..wav|{AY1 S} {K Y UW1 B}, {IH0 T S} {N AA1 T} {DH AH0 T} {HH AA1 R D} {AH1 V} {EY1} {K W EH1 S CH AH0 N}.;|1|0
-/content/flowtron/train/Liy/wavs/04_01_09_Liy_Neutral__Are, you, cool..wav|{ER0}. {Y UW1}. {K UW1 L}?;|1|0
-/content/flowtron/train/Liy/wavs/04_01_11_Liy_Happy_Noisy_Keep wiggling Ice Cube!  I can almost hear a voice!.wav|{K IY1 P} {W IH1 G AH0 L IH0 NG} {AY1 S} {K Y UW1 B}! {AY1} {K AH0 N} {AO1 L M OW2 S T} {HH IY1 R} {EY1} {V OY1 S}!;|1|0
-/content/flowtron/train/Liy/wavs/04_01_12_Liy_Angry_Noisy_No!.wav|{N OW1}!;|1|0
-/content/flowtron/train/Liy/wavs/04_01_14_Liy_Angry__I'm not!  You said you'd help me!  You said you were cool!.wav|{AH0 M} {N AA1 T}! {Y UW1} {S EH1 D} {Y UW1 D} {HH EH1 L P} {M IY1}! {Y UW1} {S EH1 D} {Y UW1} {W ER0} {K UW1 L}!;|1|0
-/content/flowtron/train/Liy/wavs/04_01_15_Liy_Neutral_Noisy_While I, Liy, am pressed..wav|{W AY1 L} {AY1}, {L AY1 IY1}, {AE1 M} {P R EH1 S T}.;|1|0
-/content/flowtron/train/Liy/wavs/04_01_16_Liy_Neutral__Huh, maybe we should a rest to this Teardrop thing, Icy..wav|{HH AH0 M}, {M EY1 B IY0} {W IY1} {SH UH1 D} {P UH1 T} {EY1} {R EH1 S T} {T AH0} {DH IH1 S} {T IH1 R D R AA2 P} {TH IH1 NG}, {AY1 S IY0}.;|1|0
-/content/flowtron/train/Liy/wavs/04_01_18_Liy_Neutral__Clock, it's not that hard, just shake my hand..wav|{K L AA1 K}, {IH0 T S} {N AA1 T} {DH AH0 T} {HH AA1 R D}. {JH IH0 S T} {SH EY1 K} {M AY1} {HH AE1 N D}.;|1|0
-/content/flowtron/train/Liy/wavs/04_01_19_Liy_Confused__What's this_.wav|{W AH1 T S} {DH IH1 S}?;|1|0
-/content/flowtron/train/Liy/wavs/04_01_21_Liy_Surprised Confused__There's another one_  .wav|{DH EH1 R Z} {AH0 N AH1 DH ER0} {W AH1 N}?;|1|0
-/content/flowtron/train/Liy/wavs/04_01_22_Liy_Surprised__It totally has a different texture from the first one!.wav|{IH1 T} {T OW1 T AH0 L IY0} {HH AE1 Z} {EY1} {D IH1 F R AH0 N T} {T EH1 K S CH ER0} {F R AH1 M} {DH IY0} {F ER1 S T} {W AH1 N}!;|1|0
-/content/flowtron/train/Liy/wavs/04_01_25_Liy_Neutral__Join us then!.wav|{JH OY1 N} {AH1 S} {DH EH1 N}!;|1|0
-/content/flowtron/train/Liy/wavs/04_01_26_Liy_Neutral__Well, this team mostly formed to avoid causing death..wav|{W EH1 L}, {DH IH1 S} {T IY1 M} {M OW1 S L IY0} {F AO1 R M D} {T AH0} {AH0 V OY1 D} {K AA1 Z IH0 NG} {D EH1 TH}.;|1|0
-/content/flowtron/train/Liy/wavs/04_02_01_Liy_Neutral__This one's empty!.wav|{DH IH1 S} {W AH1 N Z} {EH1 M T IY0}!;|1|0
-/content/flowtron/train/Liy/wavs/04_03_02_Liy_Neutral__Does it save lives_.wav|{D AH1 Z} {IH1 T} {S EY1 V} {L AY1 V Z}?;|1|0
-/content/flowtron/train/Liy/wavs/04_03_03_Liy_Happy__I'll buy one quadrillion!.wav|{AY1 L} {B AY1} {W AH1 N} {K W AA1 D R IH1 L Y AH0 N}!;|1|0
-/content/flowtron/train/Liy/wavs/04_04_01_Liy_Confused__Woah!  Belly, what's the ruckus_.wav|{W OW1}! {B EH1 L IY0}, {W AH1 T S} {DH IY0} {R AH1 K AH0 S}?;|1|0
-/content/flowtron/train/Liy/wavs/04_04_03_Liy_Happy__I've found my next adventure!.wav|{AY1 V} {F AW1 N D} {M AY1} {N EH1 K S T} {AH0 D V EH1 N CH ER0}!;|1|0
-/content/flowtron/train/Liy/wavs/04_04_05_Liy_Neutral__Bell's string!.wav|{B EH1 L Z} {S T R IH1 NG}!;|1|0
-/content/flowtron/train/Liy/wavs/04_05_04_Liy_Neutral Angry__Remote! How many lives has this team saved_.wav|{R IY0 M OW1 T}! {HH AW1} {M EH1 N IY0} {L AY1 V Z} {HH AE1 Z} {DH IH1 S} {T IY1 M} {S EY1 V D}?;|1|0
-/content/flowtron/train/Liy/wavs/04_05_05_Liy_Neutral Angry__And how many am I responsible for_.wav|{AE1 N D} {HH AW1} {M EH1 N IY0} {AE1 M} {AY1} {R IY0 S P AA1 N S AH0 B AH0 L} {F ER0}?;|1|0
-/content/flowtron/train/Liy/wavs/04_05_06_Liy_Neutral Annoyed__Exactly..wav|{IH0 G Z AE1 K T L IY0}.;|1|0
-/content/flowtron/train/Liy/wavs/04_10_01_Liy_Whining Tired Annoyed__When's Four coming back_.wav|{HH W EH1 N Z} {F AO1 R} {K AH1 M IH0 NG} {B AE1 K}?;|1|0
-/content/flowtron/train/Liy/wavs/04_10_02_Liy_Annoyed Tired__It was a rhetorical question..wav|{IH1 T} {W AA1 Z} {EY1} {R IH0 T AO1 R IH0 K AH0 L} {K W EH1 S CH AH0 N}.;|1|0
-/content/flowtron/train/Liy/wavs/04_10_04_Liy_Confused__I, don't think that's math..wav|{AY1}, {D OW1 N} {TH IH1 NG K} {DH AE1 T S} {M AE1 TH}.;|1|0
-/content/flowtron/train/Liy/wavs/04_10_05_Liy_Annoyed Whining_Noisy_On Pencil! .wav|{AA1 N} {P EH1 N S AH0 L}!;|1|0
-/content/flowtron/train/Liy/wavs/04_10_06_Liy_Annoyed Sad__Just do it already..wav|{JH IH0 S T} {D UW1} {IH1 T} {AO0 R EH1 D IY0}.;|1|0
-/content/flowtron/train/Liy/wavs/04_10_07_Liy_Annoyed Neutral__Even if the screech isn't at me, it's still annoying..wav|{IY1 V IH0 N} {IH0 F} {DH IY0} {S K R IY1 CH} {IH1 Z AH0 N} {AE1 T} {M IY1}, {IH0 T S} {S T IH1 L} {AH0 N OY1 IH0 NG}.;|1|0
-/content/flowtron/train/Liy/wavs/04_10_08_Liy_Annoyed Neutral__Pencil, free time is only for Bracelety..wav|{P EH1 N S AH0 L}, {F R IY1} {T AY1 M} {IH1 Z} {OW1 N L IY0} {F ER0} {B R EY1 S L AH0 T IY1}.;|1|0
-/content/flowtron/train/Liy/wavs/04_10_09_Liy_Neutral__You still have..wav|{Y UW1} {S T IH1 L} {HH AE1 V}.;|1|0
-/content/flowtron/train/Liy/wavs/04_10_10_Liy_Confused__Wait, that's not Four..wav|{W EY1 T}, {DH AE1 T S} {N AA1 T} {F AO1 R}.;|1|0
-/content/flowtron/train/Liy/wavs/04_10_11_Liy_Confused__What's that_ And why's it talking_.wav|{W AH1 T S} {DH AH0 T}? {AE1 N D} {W AY1 Z} {IH1 T} {T AO1 K IH0 NG}?;|1|0
-/content/flowtron/train/Liy/wavs/04_10_12_Liy_Angry Annoyed__You guys just got here!.wav|{Y UW1} {G AY1 Z} {JH IH0 S T} {G AA1 T} {HH IY1 R}!;|1|0
-/content/flowtron/train/Liy/wavs/04_11_01_Liy_Confused__Hmm..wav|{HH M}.;|1|0
-/content/flowtron/train/Liy/wavs/04_11_04_Liy_Confused__Yeah, me neither..wav|{Y AE1}, {M IY1} {N AY1 DH ER0}.;|1|0
-/content/flowtron/train/Liy/wavs/04_11_06_Liy_Annoyed_Noisy_You sat me behind Roboty, remember_.wav|{Y UW1} {S AE1 T} {M IY1} {B IH0 HH AY1 N D} {R OW1 B AH2 T IY1}, {R IH0 M EH1 M B ER0}?;|1|0
-/content/flowtron/train/Liy/wavs/04_11_07_Liy_Sad Angry__Why won't anyone support me_.wav|{HH W AY1} {W OW1 N T} {EH1 N IY0 W AH2 N} {S AH0 P AO1 R T} {M IY1}?;|1|0
-/content/flowtron/train/Liy/wavs/04_11_08_Liy_Happy__Nope! I found my next adventure!.wav|{N OW1 P}! {AY1} {F AW1 N D} {M AY1} {N EH1 K S T} {AH0 D V EH1 N CH ER0}!;|1|0
-/content/flowtron/train/Liy/wavs/04_16_01_Liy_Neutral__Well I'm not..wav|{W EH1 L}, {AH0 M} {N AA1 T}.;|1|0
-/content/flowtron/train/Liy/wavs/04_16_04_Liy_Confused Happy__What an oddly specific plan.  But, go for it!.wav|{W AH1 T} {AH0 N} {AA1 D L IY0} {S P AH0 S IH1 F IH0 K} {P L AE1 N}. {B AH1 T}, {G OW1} {F ER0} {IH1 T}!;|1|0
-/content/flowtron/train/Liy/wavs/04_16_05_Liy_Neutral__How's the stacking going_.wav|{HH AW1 Z} {DH IY0} {S T AE1 K IH0 NG} {G OW1 IH0 NG}?;|1|0
-/content/flowtron/train/Liy/wavs/04_16_06_Liy_Neutral Happy__Loser, take these!.wav|{L UW1 Z ER0}! {T EY1 K} {DH IY1 Z}!;|1|0
-/content/flowtron/train/Liy/wavs/04_16_07_Liy_Neutral__Huh huh huh!.wav|{HH AH1} {HH AH1} {HH AH1}!;|1|0
-/content/flowtron/train/Liy/wavs/04_16_08_Liy_Neutral__Uh oh..wav|{AH1} {OW1}.;|1|0
-/content/flowtron/train/Liy/wavs/04_16_09_Liy_Neutral Anxious__There's nothing left to throw!.wav|{DH EH1 R Z} {N AH1 TH IH0 NG} {L EH1 F T} {T AH0} {TH R OW1}!;|1|0
-/content/flowtron/train/Liy/wavs/04_16_11_Liy_Angry__Do it, or the two of you are demoted to bember..wav|{D UW1} {IH1 T}, {AO1 R} {DH IY0} {T UW1} {AH1 V} {Y UW1} {ER0} {D IH0 M OW1 T IH0 D} {T AH0} {B EH1 M B ER0}.;|1|0
+/content/flowtron/train/Liy/wavs/04_01_04_Liy_Neutral__So here's our plan!.wav|So here's our plan!|1|0
+/content/flowtron/train/Liy/wavs/04_01_06_Liy_Sad__Aw, Tree doesn't seem too cool..wav|Aw, Tree doesn't seem too cool.|1|0
+/content/flowtron/train/Liy/wavs/04_01_07_Liy_Neutral__Woah, Ice Cube, you're there, are you cool_.wav|Woah, Ice Cube, you're there, are you cool?|1|0
+/content/flowtron/train/Liy/wavs/04_01_08_Liy_Neutral__Ice Cube, it's not that hard of a question..wav|{Ice Cube, it's not that hard of a question.|1|0
+/content/flowtron/train/Liy/wavs/04_01_09_Liy_Neutral__Are, you, cool..wav|Are, you, cool.|1|0
+/content/flowtron/train/Liy/wavs/04_01_11_Liy_Happy_Noisy_Keep wiggling Ice Cube!  I can almost hear a voice!.wav|Keep wiggling Ice Cube!  I can almost hear a voice!|1|0
+/content/flowtron/train/Liy/wavs/04_01_12_Liy_Angry_Noisy_No!.wav|No!|1|0
+/content/flowtron/train/Liy/wavs/04_01_14_Liy_Angry__I'm not!  You said you'd help me!  You said you were cool!.wav|I'm not!  You said you'd help me!  You said you were cool!|1|0
+/content/flowtron/train/Liy/wavs/04_01_15_Liy_Neutral_Noisy_While I, Liy, am pressed..wav|While I, Liy, am pressed.|1|0
+/content/flowtron/train/Liy/wavs/04_01_16_Liy_Neutral__Huh, maybe we should a rest to this Teardrop thing, Icy..wav|Huh, maybe we should a rest to this Teardrop thing, Icy.|1|0
+/content/flowtron/train/Liy/wavs/04_01_18_Liy_Neutral__Clock, it's not that hard, just shake my hand..wav|Clock, it's not that hard, just shake my hand.|1|0
+/content/flowtron/train/Liy/wavs/04_01_19_Liy_Confused__What's this_.wav|What's this?|1|0
+/content/flowtron/train/Liy/wavs/04_01_21_Liy_Surprised Confused__There's another one_  .wav|There's another one?|1|0
+/content/flowtron/train/Liy/wavs/04_01_22_Liy_Surprised__It totally has a different texture from the first one!.wav|It totally has a different texture from the first one!|1|0
+/content/flowtron/train/Liy/wavs/04_01_25_Liy_Neutral__Join us then!.wav|Join us then!|1|0
+/content/flowtron/train/Liy/wavs/04_01_26_Liy_Neutral__Well, this team mostly formed to avoid causing death..wav|Well, this team mostly formed to avoid causing death.|1|0
+/content/flowtron/train/Liy/wavs/04_02_01_Liy_Neutral__This one's empty!.wav|This one's empty!|1|0
+/content/flowtron/train/Liy/wavs/04_03_02_Liy_Neutral__Does it save lives_.wav|Does it save lives?|1|0
+/content/flowtron/train/Liy/wavs/04_03_03_Liy_Happy__I'll buy one quadrillion!.wav|I'll buy one quadrillion!|1|0
+/content/flowtron/train/Liy/wavs/04_04_01_Liy_Confused__Woah!  Belly, what's the ruckus_.wav|Woah!  Belly, what's the ruckus?|1|0
+/content/flowtron/train/Liy/wavs/04_04_03_Liy_Happy__I've found my next adventure!.wav|I've found my next adventure!|1|0
+/content/flowtron/train/Liy/wavs/04_04_05_Liy_Neutral__Bell's string!.wav|Bell's string!|1|0
+/content/flowtron/train/Liy/wavs/04_05_04_Liy_Neutral Angry__Remote! How many lives has this team saved_.wav|Remote! How many lives has this team saved|1|0
 /content/flowtron/train/Basketball/wavs/04_01_01_Basketball_Happy__Loser is such a great guy.wav|Loser is such a great guy.|2|0
 /content/flowtron/train/Basketball/wavs/04_01_02_Basketball_Neutral Happy__Wanna be on the same team, cause we're both balls_.wav|Wanna be on the same team, cause we're both balls?|2|0
 /content/flowtron/train/Basketball/wavs/04_01_03_Basketball_Neutral Sad__I'll pick you!.wav|I'll pick you!|2|0
@@ -77,7 +60,6 @@
 /content/flowtron/train/Four/wavs/04_01_11_Four_Happy Neutral__A B F D I!.wav|A B F D I!|3|0
 /content/flowtron/train/Four/wavs/04_01_12_Four_Happy__Now form eight teams of eight!.wav|Now form eight teams of eight!|3|0
 /content/flowtron/train/Four/wavs/04_01_15_Four_Happy__Death Pact is safe!.wav|Death Pact is safe!|3|0
-/content/flowtron/train/Four/wavs/04_11_05_Leafy_Sad__Four_ I don_t think my team wants me.wav|Four? I don't think my team wants me.|3|0
 /content/flowtron/train/Four/wavs/04_11_06_Four_Neutral__8-Ball and David, also do not rejoin.wav|8-Ball and David, also do not rejoin.|3|0
 /content/flowtron/train/Four/wavs/04_11_07_Four_Neutral__Neither does Stapy.wav|Neither does Stapy.|3|0
 /content/flowtron/train/Four/wavs/04_11_08_Four_Confused__Liy! Wait. Where_s Liy_.wav|Liy! Wait. Where's Liy?|3|0
@@ -128,3 +110,39 @@
 /content/flowtron/train/Four/wavs/04_11_04_Four_Neutral__And you_ll get this whole cake.wav|And you'll get this whole cake.|3|0
 /content/flowtron/train/Four/wavs/04_12_23_Four_Smug Neutral__What_s stopping me from eliminating you_.wav|What's stopping me from eliminating you?|3|0
 /content/flowtron/train/Four/wavs/04_12_32_Four_Neutral Smug__Get it wrong again and you lose!.wav|Get it wrong again and you lose!|3|0
+/content/flowtron/train/everyone_else/04_01_06_8-Ball_Neutral__Although I don't have a favorite number, I think we should use the trebuchet to get the basket to X..wav|Although I don't have a favorite number, I think we should use the trebuchet to get the basket to X.|4|0
+/content/flowtron/train/everyone_else/04_01_01_8-Ball_Neutral__Hey Gaty, what's your favorite number_.wav|Hey Gaty, what's your favorite number?|4|0
+/content/flowtron/train/everyone_else/04_01_02_8-Ball_Neutral__Oh, no reason.  Just wanted to let you know that I don't have a favorite number..wav|Oh, no reason.  Just wanted to let you know that I don't have a favorite number.|4|0
+/content/flowtron/train/everyone_else/04_01_05_8-Ball_Neutral__I don't have a favorite number but Golf Ball's gone too now so I guess I'm in charge..wav|I don't have a favorite number but Golf Ball's gone too now so I guess I'm in charge.|4|0
+/content/flowtron/train/everyone_else/04_01_04_8-Ball_Neutral__Yeah.  Let's adopt these three because they're balls too..wav|Yeah.  Let's adopt these three because they're balls too.|4|0
+/content/flowtron/train/everyone_else/04_11_01_8-Ball_Neutral Confused__Aren't you sad you didn't rejoin_.wav|Aren't you sad you didn't rejoin?|4|0
+/content/flowtron/train/everyone_else/04_05_07_X_Happy__Thank you for catching them ground! They could have hit the ground..wav|Thank you for catching them ground! They could have hit the ground.|5|0
+/content/flowtron/train/everyone_else/04_05_06_X_Happy__Well, if you don't like it, just screech me!.wav|Well, if you don't like it, just screech me!|5|0
+/content/flowtron/train/everyone_else/04_12_02_X_Angry__Don't lean on me..wav|Don't lean on me.|5|0
+/content/flowtron/train/everyone_else/04_11_01_X_Neutral__I wouldn't stand there if I were you..wav|I wouldn't stand there if I were you.|5|0
+/content/flowtron/train/everyone_else/04_01_07_X_Neutral__Oh well!  That's fine..wav|Oh well!  That's fine.|5|0
+/content/flowtron/train/everyone_else/04_12_10_X_Neutral Annoyed__Hey!.wav|Hey!|5|0
+/content/flowtron/train/everyone_else/04_12_01_X_Amused_Noisy_Stop it!  They'll figure it out!.wav|Stop it!  They'll figure it out!|5|0
+/content/flowtron/train/everyone_else/04_12_09_X_Neutral Annoyed__That is a really bad joke!.wav|That is a really bad joke!|5|0
+/content/flowtron/train/everyone_else/04_01_10_X_Fear Shouting_Aah! Aah aah!.wav|Aah! Aah aah!|5|0
+/content/flowtron/train/everyone_else/04_05_08_X_Happy__You guys_ You can just, do whatever you want. I dunno..wav|You guys, you can just, do whatever you want. I dunno.|5|0
+/content/flowtron/train/everyone_else/04_01_02_X_Neutral Annoyed__No more screechy please!.wav|No more screechy please!|5|0
+/content/flowtron/train/everyone_else/04_12_03_X_Neutral__Fine.wav|Fine.|5|0
+/content/flowtron/train/everyone_else/04_01_05_X_Happy__I got it!.wav|I got it!|5|0
+/content/flowtron/train/everyone_else/04_05_02_X_Neutral Sad__Hey, that doesn't rhyme!.wav|Hey, that doesn't rhyme!|5|0
+/content/flowtron/train/everyone_else/04_01_06_X_Annoyed__Hey! You spilled the air out of my basket! Oh well, that's fine..wav|Hey! You spilled the air out of my basket! Oh well, that's fine.|5|0
+/content/flowtron/train/everyone_else/04_01_09_X_Happy__Yay! Come here precious basket!.wav|Yay! Come here precious basket!|5|0
+/content/flowtron/train/everyone_else/04_01_03_X_Happy__I love that prize!.wav|I love that prize!|5|0
+/content/flowtron/train/everyone_else/04_12_11_X_Sad Annoyed__Aw!.wav|Aw!|5|0
+/content/flowtron/train/everyone_else/04_12_05_X_Neutral__We're..wav|We're.|5|0
+/content/flowtron/train/everyone_else/04_05_04_X_Neutral Happy__You're the first lowest voted person who's name doesn't start with a B!.wav|You're the first lowest voted person who's name doesn't start with a B!|5|0
+/content/flowtron/train/everyone_else/04_12_06_X_Neutral__Oh. Right..wav|Oh. Right.|5|0
+/content/flowtron/train/everyone_else/04_12_08_X_Angry Smug__Now you know how it feels..wav|Now you know how it feels.|5|0
+/content/flowtron/train/everyone_else/04_05_05_X_Happy__Hi Pie bye Liy!.wav|Hi Pie bye Liy!|5|0
+/content/flowtron/train/everyone_else/04_12_07_X_Neutral__You're eliminated.wav|You're eliminated.|5|0
+/content/flowtron/train/everyone_else/04_05_03_X_Happy__You, are a disgrace to the entire art community, and the entire world would rejoice, if you never touched a piece of paper again ever!.wav|You, are a disgrace to the entire art community, and the entire world would rejoice, if you never touched a piece of paper again ever!|5|0
+/content/flowtron/train/everyone_else/04_11_03_X_Neutral__Actually, it's the eleventh contest! You missed a lot..wav|Actually, it's the eleventh contest! You missed a lot.|5|0
+/content/flowtron/train/everyone_else/04_11_02_X_Whining Annoyed__Come on!.wav|Come on!|5|0
+/content/flowtron/train/everyone_else/04_12_04_X_Annoyed__That's not how you're supposed to do it.wav|That's not how you're supposed to do it|5|0
+/content/flowtron/train/everyone_else/04_01_04_X_Sad Anxious__Oh no!.wav|Oh no!|5|0
+/content/flowtron/train/everyone_else/04_01_01_X_Annoyed Angry Smug__Yeah, too bad!.wav|Yeah, too bad!|5|0
