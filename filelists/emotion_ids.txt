@@ -1,0 +1,8 @@
+0|Unknown
+1|Neutral
+2|Happy
+3|Sad
+4|Angry
+5|Whispering
+6|Anxious
+7|Annoyed
