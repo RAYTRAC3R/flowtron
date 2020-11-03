@@ -11,3 +11,4 @@
 10|Surprised
 11|Sarcastic
 12|Whining
+13|Amused
